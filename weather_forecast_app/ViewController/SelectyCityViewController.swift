@@ -2,7 +2,7 @@
 //  SelectyCityViewController.swift
 //  weather_forecast_app
 //
-//  Created by José Alves da Cunha on 25/11/21.
+//  Created by José Alves da Cunha on 22/11/21.
 //
 
 import Foundation
